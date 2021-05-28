@@ -24,6 +24,7 @@ gem 'jbuilder', '~> 2.7'
 # gem 'bcrypt', '~> 3.1.7'
 gem 'bootstrap', '~> 5.0.1'
 gem 'devise', '~> 4.8'
+gem 'httparty', '~> 0.18.1'
 
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
